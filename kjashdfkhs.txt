@@ -6,3 +6,4 @@ asdfasdfasf
 alksdkjfljasdf
 kl;asdjfljasdf
 
+function quadro($i) return $i*2;
