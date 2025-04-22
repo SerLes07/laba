@@ -6,4 +6,6 @@ asdfasdfasf
 alksdkjfljasdf
 kl;asdjfljasdf
 
+
 function quadro($i) return $i*2;
+Функция kx + b asdlfjlasdjfljasdlf
